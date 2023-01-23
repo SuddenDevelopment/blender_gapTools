@@ -10,6 +10,7 @@ Object Selections:
 3. No UVs
 4. Modifiers
 5. Same vertex color
+6. Duplicate Objects in same location
 
 Object Actions:
 
