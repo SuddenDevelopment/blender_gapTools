@@ -6,7 +6,6 @@ Import SVG (same as SpecIO)
 Object Selections:
 
 1. Same collection
-2. Same Material
 3. No UVs
 4. Modifiers
 5. Same vertex color
