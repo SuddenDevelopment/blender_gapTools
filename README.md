@@ -18,6 +18,7 @@ Object Actions:
 3. Separate objects
 4. Set vertex color
 5. Stack collections by hierarchy
+6. slice object on axis with planes
 
 Keyframe Actions:
 
